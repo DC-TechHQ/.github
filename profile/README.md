@@ -101,10 +101,23 @@ This system is used daily by state authorities.
 
 ### **Databases & Messaging**
 <p>
-  <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40"/></a>
-  <a href="https://redis.io/"><img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" height="40"/></a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="40"/>
+  </a>
+  
+  <a href="https://www.mysql.com/">
+    <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="40"/>
+  </a>
+  
+  <a href="https://redis.io/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" height="40"/>
+  </a>
+
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"/>
+  </a>
 </p>
+
 
 ---
 
