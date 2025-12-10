@@ -1,7 +1,3 @@
-<p align="center">
-  <img class="avatar rounded-2" src="https://avatars.githubusercontent.com/u/219392786?s=400&u=e15adbe9b6608e71b9c46af41ba6642c072a1e61&v=4" width="200" height="200" alt="@DC-TechHQ">
-</p>
-
 <h1 align="center">🚀 DC-TechHQ</h1>
 <h3 align="center">Engineering Division of DC Bank • Government Software • AI • Automation • Backend Systems</h3>
 
