@@ -60,7 +60,7 @@ This system is used daily by state authorities.
 
 ### 📱 Mobile Development
 <p>
-  <a href="https://flutter.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.png" height="40"/></a>
+  <a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/dart-lang/site-shared/master/src/_assets/image/flutter/icon/64.png" height="40"/></a>
   <a href="https://kotlinlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40"/></a>
 </p>
 
@@ -82,7 +82,7 @@ This system is used daily by state authorities.
   <a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo.png" height="40"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" height="40"/></a>
   <a href="https://kotlinlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="40"/></a>
-  <a href="https://flutter.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.png" height="40"/></a>
+  <a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/dart-lang/site-shared/master/src/_assets/image/flutter/icon/64.png" height="40"/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/dotnet/brand/main/logo/dotnet-logo.png" height="40"/></a>
   <a href="https://www.php.net/"><img src="https://www.php.net/images/logos/new-php-logo.svg" height="40"/></a>
 </p>
